@@ -37,7 +37,7 @@
 
 ---
 
-### Command Summary with Arguments and Examples:
+### Command Examples:
 
 1. **MNIST with VAT loss:**
    ```
