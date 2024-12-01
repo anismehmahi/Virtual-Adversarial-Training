@@ -1,3 +1,4 @@
+### Command to reproduce results :
    ```
    python main.py --dataroot=<dataroot> --dataset=<dataset> --method=<method> --num_epochs=<epochs> --epoch_decay_start=<eds> --epsilon=<eps> --top_bn=<top_bn>
    ```
